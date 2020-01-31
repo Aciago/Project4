@@ -1,0 +1,22 @@
+# Project 4
+
+## Data Visualization with Python and Tableau
+
+#### 31/01/2020
+
+Nick M.
+
+History of terrorism in Ukraine
+
+plots:
+
+1) line graph, total amount of TA /// self-explanatory
+2) histogram, amount of TA per year /// bin for every year, might split by avg and total
+3) types of weapon\method use for TA
+4) claimed responsibility or not
+5) against which target TA was performed (civilan, military, )
+
+
+x) comparison to other countriesm, including before\after breakpoint of 2014 
+
+***) for each viz good idea could be a comparison between different oblasts' (regions)
